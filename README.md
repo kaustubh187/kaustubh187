@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaustubh187
+- 👋 Hi, I’m Kaustubh Pandey
 - 👀 I’m interested in Data Science and System Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on backend development projects
