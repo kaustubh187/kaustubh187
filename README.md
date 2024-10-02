@@ -18,12 +18,6 @@ Advanced Go for building multi-threaded projects with microservices.
 Experimenting with reinforcement learning and AI-driven systems.
 
 
-## 🚀 Projects I'm Proud Of:
-[ShopReel]: A platform that combines e-commerce and video content, with AI-powered recommendations and direct purchasing options.
-[SoundSync Social Media]: A music-based social networking platform that recommends friends based on Spotify listening history.
-
-
-
 ## 💬 Ask Me About:
 Full-stack development
 Problem-solving techniques in coding competitions
