@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a final year CS student, passionate about soft
 
 ## 🌱 What I’m Learning:
 Advanced Go for building multi-threaded projects with microservices.
-Experimenting with reinforcement learning and AI-driven systems.
 
 
 ## 💬 Ask Me About:
